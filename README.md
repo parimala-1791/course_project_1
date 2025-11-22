@@ -88,10 +88,34 @@ For Linux/macOS:
 ./timetable
 ```
 
-### **ScreenShot**
+### **ScreenShots**
 
 **1.Main Menu**
 
 <p align="center">
 <img src="main menu.jpeg" width="500">
+</p>
+
+**2.Add Course**
+
+<p align="center">
+<img src="applyat cauctate.jpeg" width="400">
+</p>
+
+**3.display Timetable**
+
+<p align="center">
+<img src="display timetable.jpeg" width="400">
+</p>
+
+**4.Saved timetable**
+
+<p align="center">
+<img src="saved timetable.jpeg" width="400">
+</p>
+
+**5.exit**
+
+<p align="center">
+<img src="exit.jpeg" width="400">
 </p>
