@@ -89,4 +89,9 @@ For Linux/macOS:
 ```
 
 ### **ScreenShot**
-![image alt](https://github.com/parimala-1791/course_project_1/blob/633909ddf4f6db88fb880583edb4c76188329513/main%20menu.jpeg)
+
+**1.Main Menu**
+
+<p align="center">
+<img src="main menu.jpeg" width="500">
+</p>
