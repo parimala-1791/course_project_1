@@ -2,12 +2,12 @@
 
  ----
 
-# *ABSTRACT*
+## **ABSTRACT**
 
 A lightweight and user-friendly console-based timetable manager built in C.
 This program allows students or administrators to easily create, view, and store a weekly university timetable.The system supports adding courses with details such as day, time, room, and professor, and stores all data in a file for future use. The program also loads the saved timetable automatically during startup, making it a persistent and easy-to-use scheduling tool.
 
-## **Features of the Program**
+**Features of the Program**
 
 **1.Add New Courses**
 * Enter course name, day, time, room, professor.
@@ -36,7 +36,7 @@ This program allows students or administrators to easily create, view, and store
 * Uses file handling (fopen, fprintf, fscanf).
 * Ensures data is not lost even after exit.
 
-## *Technical Requirements*
+*Technical Requirements*
 
 **1.Software Requirements:**
 * GCC compiler (MinGW / GCC / Linux GCC)
@@ -56,7 +56,7 @@ This program allows students or administrators to easily create, view, and store
       `stdlib.h`
       `string.h`
 
-## *How to Run the Program*
+*How to Run the Program*
 **1.Save the code:**
 
 First, copy the entire C program code and save it in a file with the name:
