@@ -87,3 +87,6 @@ For Linux/macOS:
 ```bash
 ./timetable
 ```
+
+### **ScreenShot**
+![image alt](https://github.com/parimala-1791/course_project_1/blob/633909ddf4f6db88fb880583edb4c76188329513/main%20menu.jpeg)
