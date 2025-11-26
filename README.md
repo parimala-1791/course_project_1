@@ -44,7 +44,7 @@ This program allows students or administrators to easily create, view, and store
 **6.Exit**
 * Saves the timetable and closes the program.
 
-### **Technical Requirements**
+## **Technical Requirements**
 
 **1.Software Requirements:**
 * GCC compiler (MinGW / GCC / Linux GCC)
@@ -64,7 +64,7 @@ This program allows students or administrators to easily create, view, and store
       `stdlib.h`
       `string.h`
 
-### **How to Run the Program**
+## **How to Run the Program**
 
 **1.Save the code:**
 
@@ -96,7 +96,7 @@ For Linux/macOS:
 ./timetable
 ```
 
-### **ScreenShots**
+## **ScreenShots**
 
 **1.Main Menu**
 
